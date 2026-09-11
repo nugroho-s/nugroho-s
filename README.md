@@ -17,6 +17,22 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ---
 
+### 🎓 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/19942613-5ffa-4562-8e9a-404f9d93a627/public_url">
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" width="110" />
+</a>
+
+<br/>
+
+[![AWS Certified Solutions Architect - Professional](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/19942613-5ffa-4562-8e9a-404f9d93a627/public_url)
+
+</div>
+
+---
+
 ### ⚙️ Tech & tools I tinker with
 
 <div align="center">
