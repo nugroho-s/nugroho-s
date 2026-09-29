@@ -48,34 +48,11 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub streak
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nugroho-s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=nugroho-s&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugroho-s&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nugroho-s&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%" />
-
-</div>
-
----
-
-### 📈 Activity graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nugroho-s&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity graph" width="100%" />
 
 </div>
 
